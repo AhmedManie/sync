@@ -35,6 +35,9 @@ int main() {
 			// Game logic goes here
 
 
+            cout << "TEST";
+
+
 		// Drawing goes here
 
        
