@@ -30,17 +30,18 @@ int main() {
         while (window.pollEvent(event)) {
             if (event.type == Event::Closed) {
                 window.close();
-			}
-
-			// Game logic goes here
-
-
-            cout << "TEST";
+            }
+        }
+        
+        // Game logic goes here
 
 
-		// Drawing goes here
+        cout << "TEST";
 
-       
+
+        // Drawing goes here
     }
+
+
     return 0;
 }
