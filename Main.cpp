@@ -20,7 +20,7 @@ int menuIndex = 1;
 Clock timeClock;
 Clock dtClock;
 float dt = 0;
-
+// from earth to moon in meters
 // test
 // Main
 int main() {
