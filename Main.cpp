@@ -19,7 +19,7 @@ int menuIndex = 1;
 
 Clock timeClock;
 Clock dtClock;
-float dt = 0;
+
 
 // test
 // Main
